@@ -1,0 +1,5 @@
+#pw1 .pw-box { background-color: #fff; }
+#pw1 article { background-color: #fff; }
+/* #pw1 table, #pw1 ul { background-color: #fff; } */
+#pw1 table { background-color: #fff; }
+#pw1 table > thead th, #hc4 table thead td { font-size: 1.25em; font-weight: normal; line-height: 1.5; }

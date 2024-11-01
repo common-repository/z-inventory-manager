@@ -1,0 +1,410 @@
+
+msgid "About"
+msgstr ""
+
+msgid "Access As If This User"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add-Ons"
+msgstr ""
+
+msgid "Already Exists"
+msgstr ""
+
+msgid "Archived"
+msgstr ""
+
+msgid "Can not open the uploaded file"
+msgstr ""
+
+msgid "Change Customer"
+msgstr ""
+
+msgid "Change Supplier"
+msgstr ""
+
+msgid "Close Menu"
+msgstr ""
+
+msgid "Contact Changed"
+msgstr ""
+
+msgid "Contact Deleted"
+msgstr ""
+
+msgid "Contact Updated"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Permission Role"
+msgstr ""
+
+msgid "Delete Purchase"
+msgstr ""
+
+msgid "Delete Sale"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Items"
+msgstr ""
+
+msgid "Edit System Settings"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "End of Day"
+msgstr ""
+
+msgid "Error Updating Permission Connections"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Finance"
+msgstr ""
+
+msgid "First Page"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Import Database From Z Inventory Manager Ver.2"
+msgstr ""
+
+msgid "In Stock"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installation Complete"
+msgstr ""
+
+msgid "Inventory"
+msgstr ""
+
+msgid "Issued"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Item Added"
+msgstr ""
+
+msgid "Item Changed"
+msgstr ""
+
+msgid "Item Deleted"
+msgstr ""
+
+msgid "Item Saved"
+msgstr ""
+
+msgid "Item Selector"
+msgstr ""
+
+msgid "Items Required"
+msgstr ""
+
+msgid "Last Page"
+msgstr ""
+
+msgid "Last Updated"
+msgstr ""
+
+msgid "Manage Contacts"
+msgstr ""
+
+msgid "Manage Install"
+msgstr ""
+
+msgid "Manage Inventory"
+msgstr ""
+
+msgid "Manage Settings"
+msgstr ""
+
+msgid "Manage Transactions"
+msgstr ""
+
+msgid "Manage Users"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "My Profile"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Customer"
+msgstr ""
+
+msgid "New Customer Created"
+msgstr ""
+
+msgid "New Item"
+msgstr ""
+
+msgid "New Permission Connection For WordPress Role"
+msgstr ""
+
+msgid "New Permission Connection For WordPress User"
+msgstr ""
+
+msgid "New Purchase"
+msgstr ""
+
+msgid "New Role"
+msgstr ""
+
+msgid "New Sale"
+msgstr ""
+
+msgid "New Supplier"
+msgstr ""
+
+msgid "New Supplier Created"
+msgstr ""
+
+msgid "Next Page"
+msgstr ""
+
+msgid "Nobody Will Be Able To Manage Users"
+msgstr ""
+
+msgid "Not Allowed"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Permission Connection Removed"
+msgstr ""
+
+msgid "Permission Connection Saved"
+msgstr ""
+
+msgid "Permission Role"
+msgstr ""
+
+msgid "Permission Role Deleted"
+msgstr ""
+
+msgid "Permission Role Saved"
+msgstr ""
+
+msgid "Permission Roles"
+msgstr ""
+
+msgid "Permissions Reset"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Plugin Role"
+msgstr ""
+
+msgid "Previous Page"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Print View"
+msgstr ""
+
+msgid "Purchase"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Reference"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "SKU"
+msgstr ""
+
+msgid "Sale"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select Contact"
+msgstr ""
+
+msgid "Select Customer"
+msgstr ""
+
+msgid "Select Items"
+msgstr ""
+
+msgid "Select Supplier"
+msgstr ""
+
+msgid "Select WordPress User"
+msgstr ""
+
+msgid "Sequential"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings Saved"
+msgstr ""
+
+msgid "Start With Blank Database"
+msgstr ""
+
+msgid "Start of Day"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Supplier"
+msgstr ""
+
+msgid "The file is empty"
+msgstr ""
+
+msgid "This Value Already Exists"
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Transaction"
+msgstr ""
+
+msgid "Transaction Created"
+msgstr ""
+
+msgid "Transaction Deleted"
+msgstr ""
+
+msgid "Transaction Items Updated"
+msgstr ""
+
+msgid "Transaction Saved"
+msgstr ""
+
+msgid "Transaction State"
+msgstr ""
+
+msgid "Transaction Updated"
+msgstr ""
+
+msgid "Transactions"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Uninstall Complete"
+msgstr ""
+
+msgid "Unknown Item"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "View All Transactions"
+msgstr ""
+
+msgid "View Contacts"
+msgstr ""
+
+msgid "View History"
+msgstr ""
+
+msgid "View Inventory"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "WordPress"
+msgstr ""
+
+msgid "WordPress Permission Connections"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "d"
+msgstr ""
+
+msgid "h"
+msgstr ""
+
+msgid "m"
+msgstr ""
+
+

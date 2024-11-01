@@ -1,0 +1,427 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-01-10 15:02+0100\n"
+"Last-Translator: Jacobo Feijóo\n"
+"Language-Team: spa\n"
+"Language: spa\n"
+"MIME-Version: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "Access As If This User"
+msgstr "Acceder como si este usuario"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Add-Ons"
+msgstr ""
+
+msgid "Already Exists"
+msgstr "Ya existe"
+
+msgid "Archived"
+msgstr "Archivado"
+
+msgid "Can not open the uploaded file"
+msgstr "No se puede abrir el archivo subido"
+
+msgid "Change Customer"
+msgstr "Cambiar cliente"
+
+msgid "Change Supplier"
+msgstr "Cambiar proveedor"
+
+msgid "Close Menu"
+msgstr "Cerrar menú"
+
+msgid "Contact Changed"
+msgstr "Contacto cambiado"
+
+msgid "Contact Deleted"
+msgstr "Contacto borrado"
+
+msgid "Contact Updated"
+msgstr "Contacto actualizado"
+
+msgid "Contacts"
+msgstr "Contactos"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Date and Time"
+msgstr "Fecha y hora"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete Permission Role"
+msgstr "Borrar rol de permiso"
+
+msgid "Delete Purchase"
+msgstr "Borrar compra"
+
+msgid "Delete Sale"
+msgstr "Borrar venta"
+
+msgid "Draft"
+msgstr "Borrador"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit Items"
+msgstr "Editar artículos"
+
+msgid "Edit System Settings"
+msgstr "Editar ajustes de sistema"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "End of Day"
+msgstr "Final del día"
+
+msgid "Error Updating Permission Connections"
+msgstr "Error al actualizar permisos"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Finance"
+msgstr "Finanzas"
+
+msgid "First Page"
+msgstr "Primera página"
+
+msgid "Fri"
+msgstr "Vier"
+
+msgid "History"
+msgstr "Historial"
+
+msgid "Home"
+msgstr "Principal"
+
+msgid "Import Database From Z Inventory Manager Ver.2"
+msgstr "Importar base de datos desde Z Inventory Manager Ver.2"
+
+msgid "In Stock"
+msgstr "En almacén"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "Installation Complete"
+msgstr "Instalación completa"
+
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Issued"
+msgstr "Emitido"
+
+msgid "Item"
+msgstr "Artículo"
+
+msgid "Item Added"
+msgstr "Artículo añadido"
+
+msgid "Item Changed"
+msgstr "Artículo cambiado"
+
+msgid "Item Deleted"
+msgstr "Artículo borrado"
+
+msgid "Item Saved"
+msgstr "Artículo guardado"
+
+msgid "Item Selector"
+msgstr "Selector de artículos"
+
+msgid "Items Required"
+msgstr "Artículos requeridos"
+
+msgid "Last Page"
+msgstr "Última página"
+
+msgid "Last Updated"
+msgstr "Última actualización"
+
+msgid "Manage Contacts"
+msgstr "Gestionar contactos"
+
+msgid "Manage Install"
+msgstr "Gestinar instalación"
+
+msgid "Manage Inventory"
+msgstr "Gestionar inventario"
+
+msgid "Manage Settings"
+msgstr "Gestionar ajustes"
+
+msgid "Manage Transactions"
+msgstr "Gestionar transacciones"
+
+msgid "Manage Users"
+msgstr "Gestionar usuarios"
+
+msgid "Menu"
+msgstr "Menú"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "My Profile"
+msgstr "Mi perfil"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "New Customer"
+msgstr "Nuevo cliente"
+
+msgid "New Customer Created"
+msgstr "Nuevo cliente creado"
+
+msgid "New Item"
+msgstr "Nuevo artículo"
+
+msgid "New Permission Connection For WordPress Role"
+msgstr "Nuevo permiso para rol de WordPress"
+
+msgid "New Permission Connection For WordPress User"
+msgstr "Nuevo permiso para usuario de WordPress"
+
+msgid "New Purchase"
+msgstr "Nueva compra"
+
+msgid "New Role"
+msgstr "Nuevo rol"
+
+msgid "New Sale"
+msgstr "Nueva venta"
+
+msgid "New Supplier"
+msgstr "Nuevo proveedor"
+
+msgid "New Supplier Created"
+msgstr "Nuevo proveedor creado"
+
+msgid "Next Page"
+msgstr "Siguiente página"
+
+msgid "Nobody Will Be Able To Manage Users"
+msgstr "Nadie podrá gestionar usuarios"
+
+msgid "Not Allowed"
+msgstr "No permitido"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Permission Connection Removed"
+msgstr "Permiso borrado"
+
+msgid "Permission Connection Saved"
+msgstr "Permiso guardado"
+
+msgid "Permission Role"
+msgstr "Rol de permisos"
+
+msgid "Permission Role Deleted"
+msgstr "Rol de permisos borrado"
+
+msgid "Permission Role Saved"
+msgstr "Rol de permisos guardado"
+
+msgid "Permission Roles"
+msgstr "Roles de permisos"
+
+msgid "Permissions Reset"
+msgstr "Reinicio de permisos"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+msgid "Plain Text"
+msgstr "Texto plano"
+
+msgid "Plugin Role"
+msgstr "Rol de plugin"
+
+msgid "Previous Page"
+msgstr "Página anterior"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Print View"
+msgstr "Ver impresión"
+
+msgid "Purchase"
+msgstr "Compra"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Random"
+msgstr "Aleatorio"
+
+msgid "Reference"
+msgstr "Referencia"
+
+msgid "Required Field"
+msgstr "Campo requerido"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Sale"
+msgstr "Venta"
+
+msgid "Sat"
+msgstr "Sab"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Select Contact"
+msgstr "Seleccionar contacto"
+
+msgid "Select Customer"
+msgstr "Seleccionar cliente"
+
+msgid "Select Items"
+msgstr "Seleccionar artículos"
+
+msgid "Select Supplier"
+msgstr "Seleccionar proveedor"
+
+msgid "Select WordPress User"
+msgstr "Seleccionar usuario de Wordpress"
+
+msgid "Sequential"
+msgstr "Secuencial"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Settings Saved"
+msgstr "Ajustes guardados"
+
+msgid "Start With Blank Database"
+msgstr "Comenzar con base de datos en blanco"
+
+msgid "Start of Day"
+msgstr "Comienzo del día"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Supplier"
+msgstr "Proveedor"
+
+msgid "The file is empty"
+msgstr "Este archivo está vacío"
+
+msgid "This Value Already Exists"
+msgstr "Este valor ya existe"
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Transaction"
+msgstr "Transacción"
+
+msgid "Transaction Created"
+msgstr "Transacción creada"
+
+msgid "Transaction Deleted"
+msgstr "Transacción borrada"
+
+msgid "Transaction Items Updated"
+msgstr "Transacción de artículos actualizada"
+
+msgid "Transaction Saved"
+msgstr "Transacción guardada"
+
+msgid "Transaction State"
+msgstr "Estado de la transacción"
+
+msgid "Transaction Updated"
+msgstr "Transacción actualizada"
+
+msgid "Transactions"
+msgstr "Transacciones"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+msgid "Uninstall Complete"
+msgstr "Desinstalación completa"
+
+msgid "Unknown Item"
+msgstr "Artículo desconocido"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "View All Transactions"
+msgstr "Ver todas las transacciones"
+
+msgid "View Contacts"
+msgstr "Ver contactos"
+
+msgid "View History"
+msgstr "Ver historial"
+
+msgid "View Inventory"
+msgstr "Ver inventario"
+
+msgid "Wed"
+msgstr "Mier"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+msgid "WordPress Permission Connections"
+msgstr "Permisos de WordPress"
+
+msgid "WordPress User"
+msgstr "Usuario de WordPress"
+
+msgid "d"
+msgstr "d"
+
+msgid "h"
+msgstr "h"
+
+msgid "m"
+msgstr "m"
+

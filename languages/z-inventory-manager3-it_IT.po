@@ -1,0 +1,431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Z Inventory Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-08 15:50+0000\n"
+"PO-Revision-Date: 2019-03-08 15:50+0000\n"
+"Last-Translator: demoweb <info@demoweb.it>\n"
+"Language-Team: Italiano\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+msgid "About"
+msgstr ""
+
+msgid "Access As If This User"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add-Ons"
+msgstr ""
+
+msgid "Already Exists"
+msgstr ""
+
+msgid "Archived"
+msgstr ""
+
+msgid "Can not open the uploaded file"
+msgstr ""
+
+msgid "Change Customer"
+msgstr ""
+
+msgid "Change Supplier"
+msgstr ""
+
+msgid "Close Menu"
+msgstr ""
+
+msgid "Contact Changed"
+msgstr ""
+
+msgid "Contact Deleted"
+msgstr ""
+
+msgid "Contact Updated"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Date and Time"
+msgstr "Data e ora"
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "Delete Permission Role"
+msgstr ""
+
+msgid "Delete Purchase"
+msgstr ""
+
+msgid "Delete Sale"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Items"
+msgstr ""
+
+msgid "Edit System Settings"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "End of Day"
+msgstr ""
+
+msgid "Error Updating Permission Connections"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Finance"
+msgstr ""
+
+msgid "First Page"
+msgstr ""
+
+#  hort Friday, short Friday
+msgid "Fri"
+msgstr "VEN"
+
+msgid "History"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Import Database From Z Inventory Manager Ver.2"
+msgstr ""
+
+msgid "In Stock"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installation Complete"
+msgstr ""
+
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Issued"
+msgstr ""
+
+msgid "Item"
+msgstr "Articolo"
+
+msgid "Item Added"
+msgstr ""
+
+msgid "Item Changed"
+msgstr ""
+
+msgid "Item Deleted"
+msgstr ""
+
+msgid "Item Saved"
+msgstr ""
+
+msgid "Item Selector"
+msgstr ""
+
+msgid "Items Required"
+msgstr ""
+
+msgid "Last Page"
+msgstr ""
+
+msgid "Last Updated"
+msgstr ""
+
+msgid "Manage Contacts"
+msgstr ""
+
+msgid "Manage Install"
+msgstr ""
+
+msgid "Manage Inventory"
+msgstr ""
+
+msgid "Manage Settings"
+msgstr ""
+
+msgid "Manage Transactions"
+msgstr ""
+
+msgid "Manage Users"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+#  hort Monday, short Monday
+msgid "Mon"
+msgstr "LUN"
+
+msgid "My Profile"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Customer"
+msgstr ""
+
+msgid "New Customer Created"
+msgstr ""
+
+msgid "New Item"
+msgstr "Nuovo articolo"
+
+msgid "New Permission Connection For WordPress Role"
+msgstr ""
+
+msgid "New Permission Connection For WordPress User"
+msgstr ""
+
+msgid "New Purchase"
+msgstr ""
+
+msgid "New Role"
+msgstr ""
+
+msgid "New Sale"
+msgstr ""
+
+msgid "New Supplier"
+msgstr ""
+
+msgid "New Supplier Created"
+msgstr ""
+
+msgid "Next Page"
+msgstr ""
+
+msgid "Nobody Will Be Able To Manage Users"
+msgstr ""
+
+msgid "Not Allowed"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Permission Connection Removed"
+msgstr ""
+
+msgid "Permission Connection Saved"
+msgstr ""
+
+msgid "Permission Role"
+msgstr ""
+
+msgid "Permission Role Deleted"
+msgstr ""
+
+msgid "Permission Role Saved"
+msgstr ""
+
+msgid "Permission Roles"
+msgstr ""
+
+msgid "Permissions Reset"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Plugin Role"
+msgstr ""
+
+msgid "Previous Page"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Print View"
+msgstr ""
+
+msgid "Purchase"
+msgstr ""
+
+msgid "Quantity"
+msgstr "Quantità"
+
+msgid "Random"
+msgstr "Casuale"
+
+msgid "Reference"
+msgstr ""
+
+msgid "Required Field"
+msgstr "Campo richiesto"
+
+msgid "SKU"
+msgstr "COD UNIVOCO"
+
+msgid "Sale"
+msgstr ""
+
+#  hort Saturday, short Saturday
+msgid "Sat"
+msgstr "SAB"
+
+msgid "Select"
+msgstr ""
+
+msgid "Select Contact"
+msgstr ""
+
+msgid "Select Customer"
+msgstr ""
+
+msgid "Select Items"
+msgstr ""
+
+msgid "Select Supplier"
+msgstr ""
+
+msgid "Select WordPress User"
+msgstr ""
+
+msgid "Sequential"
+msgstr "Sequenziale"
+
+msgid "Settings"
+msgstr "Configurazione"
+
+msgid "Settings Saved"
+msgstr ""
+
+msgid "Start With Blank Database"
+msgstr ""
+
+msgid "Start of Day"
+msgstr ""
+
+#  hort Sunday, short Sunday
+msgid "Sun"
+msgstr "DOM"
+
+msgid "Supplier"
+msgstr ""
+
+msgid "The file is empty"
+msgstr ""
+
+msgid "This Value Already Exists"
+msgstr ""
+
+#  hort Thursday, short Thursday
+msgid "Thu"
+msgstr "GIO"
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "Total"
+msgstr ""
+
+msgid "Transaction"
+msgstr ""
+
+msgid "Transaction Created"
+msgstr ""
+
+msgid "Transaction Deleted"
+msgstr ""
+
+msgid "Transaction Items Updated"
+msgstr ""
+
+msgid "Transaction Saved"
+msgstr ""
+
+msgid "Transaction State"
+msgstr ""
+
+msgid "Transaction Updated"
+msgstr ""
+
+msgid "Transactions"
+msgstr "Transazioni"
+
+#  hort Tuesday, short Tuesday
+msgid "Tue"
+msgstr "MAR"
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Uninstall Complete"
+msgstr ""
+
+msgid "Unknown Item"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "View All Transactions"
+msgstr ""
+
+msgid "View Contacts"
+msgstr ""
+
+msgid "View History"
+msgstr ""
+
+msgid "View Inventory"
+msgstr ""
+
+#  hort Wednesday, short Wednesday
+msgid "Wed"
+msgstr "MER"
+
+msgid "WordPress"
+msgstr ""
+
+msgid "WordPress Permission Connections"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "d"
+msgstr ""
+
+msgid "h"
+msgstr ""
+
+msgid "m"
+msgstr ""
+
